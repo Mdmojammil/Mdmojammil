@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojammil</h1>
 <h3 align="center">A passionate software/web developer from India</h3>
-<img align="right"alt="coding" width="300" scr="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmojammil&label=Profile%20views&color=0e75b6&style=flat" alt="mdmojammil" /> </p>
 
