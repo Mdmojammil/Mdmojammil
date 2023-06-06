@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://twitter.com/@mdmojammil91925089" target="blank"><img src="https://img.shields.io/twitter/follow/@mdmojammil91925089?logo=twitter&style=for-the-badge" alt="@mdmojammil91925089" /></a> </p>
 
 
-🔭 I’m currently working on web developing projects
+🔭 I’m currently working on software/web developing projects
 
 🌱 I’m currently learning Machine Learning in Python
 
 👯 I’m looking to collaborate with other content creators<br></br>
-💬 Ask me about Web Development, Algo. Design,<br> Ethical
+💬 Ask me about software/Web Development, Algo. Design,<br> Ethical
 Hacking
 
 📫 How to reach me:Gmail **mdmojammil3533@gmail.com**
